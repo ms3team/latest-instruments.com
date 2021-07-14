@@ -1,0 +1,31 @@
+<html>
+<head>
+<h1>music instruments</h1>
+</head>
+<body>
+<p>these are the instruments examples for the musical instruments it is below</p>
+
+unordered list
+<ul>
+<li>guitar</li>
+<li>violin</li>
+<li>keyboard</li>
+</ul>
+
+<ol>
+<li>guitar</li>
+<li>violin</li>
+<li>keyboard</li>
+</ol>
+
+<dl>
+<dt>guitar</dt>
+  <dd>string</dd>
+<dt>violin</dt>
+  <dd>string</dd>
+<dt>keyboard</dt>
+<dd>keys</dd>
+</dl>
+
+</body>
+</html>
